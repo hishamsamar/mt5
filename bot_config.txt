@@ -1,1 +1,1 @@
-413497584 StopAfterTP=false AutoStopBeforeClose=false
+gold_bot 4134975841 StopAfterTP=false AutoStopBeforeClose=false
