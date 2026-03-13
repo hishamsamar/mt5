@@ -2,3 +2,4 @@ gold_bot2 46363463 StopAfterTP=true AutoStopBeforeClose=false
 gold_bo3t 41349753841 StopAfterTP=false AutoStopBeforeClose=false
 thong2 4134975841 StopAfterTP=false AutoStopBeforeClose=false
 test 123456 StopAfterTP=false AutoStopBeforeClose=false
+concactao 456456789 StopAfterTP=false AutoStopBeforeClose=false
